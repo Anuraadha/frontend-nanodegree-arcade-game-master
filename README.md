@@ -21,6 +21,16 @@ and every time player collides with the bug it will reduce 1 life of player.
 After 5 collisions game will over and ask for restart.
 
 
+## Initial State
+
+![Initial State](/images/initial_state.JPG)
+
+
+
+## Game Over State
+
+![Game Over State](images/game_over.JPG)
+
 
 ## Specifications
 
