@@ -1,24 +1,34 @@
 # Classic Arcade Game Clone Project
-This is a project from Udacity's Nanodegree program "Front-End Web Developer". The project consists on a game based on the arcade game Frogger by Konami.
+
 
 ## Table of Contents
 
-- [How To Play](#HowToPlay)
-- [Contributing](#contributing)
+* [Info](#Info)
+* [How To Play](#HowToPlay)
+* [Specifications](#Specifications)
 
-## HowToPlay
+
+## Info
+This is a project from Udacity's Nanodegree program "Front-End Web Developer" to show our knowledge of HTML, CSS, Javascript, Oops. The project consists on a game based on the arcade game Frogger by Konami.
+
+
+## How To Play
 
 To play this game you can use 4 keys (Up, Down, Right , Left) to move player upside, downside right and left respectively.
-player has to avoid enemies to reach to water level. Every time player reach to water level it will increase 
+player has to avoid enemies to reach to water level. Every time player reach to water level it will increase value of Win variable.
+and every time player collides with the bug it will reduce 1 life of player.
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+After 5 collisions game will over and ask for restart.
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Specifications
 
-## Contributing
+* Live count of all win moves.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+* Making count for players 5 lives.
+
+* After 5 collisions game will display game over modal box.
+
+* Every time player collide eith the bug, it will reduce one life of player.
+
