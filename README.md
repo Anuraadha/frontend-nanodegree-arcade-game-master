@@ -1,11 +1,15 @@
 # Classic Arcade Game Clone Project
+This is a project from Udacity's Nanodegree program "Front-End Web Developer". The project consists on a game based on the arcade game Frogger by Konami.
 
 ## Table of Contents
 
-- [Instructions](#instructions)
+- [How To Play](#HowToPlay)
 - [Contributing](#contributing)
 
-## Instructions
+## HowToPlay
+
+To play this game you can use 4 keys (Up, Down, Right , Left) to move player upside, downside right and left respectively.
+player has to avoid enemies to reach to water level. Every time player reach to water level it will increase 
 
 Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
 
