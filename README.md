@@ -4,14 +4,19 @@
 ## Table of Contents
 
 * [Info](#Info)
+* [How to run](#HowToRun)
 * [How To Play](#HowToPlay)
 * [Specifications](#Specifications)
+
 
 
 ## Info
 This is a project from Udacity's Nanodegree program "Front-End Web Developer" to show our knowledge of HTML, CSS, Javascript, Oops. The project consists on a game based on the arcade game Frogger by Konami.
 
 
+## How To Run
+* Download this github file or clone this repositiory to you local machine.
+* Then open index.html file in the browser.
 ## How To Play
 
 To play this game you can use 4 keys (Up, Down, Right , Left) to move player upside, downside right and left respectively.
