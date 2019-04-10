@@ -142,9 +142,6 @@ Player.prototype.handleInput  = function(keyCode){
     //If up key is presse then move 1 column to left
     if(this.x >= colWidth){
       this.col-=1;
-      console.log(this.x);
-      console.log(colWidth);
-
     }
 
   }
